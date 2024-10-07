@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-05T18:36:15 IST" name="Default suite" finished-at="2024-10-05T18:36:27 IST" duration-ms="11635">
+    <groups>
+    </groups>
+    <test started-at="2024-10-05T18:36:15 IST" name="Default test" finished-at="2024-10-05T18:36:27 IST" duration-ms="11635">
+      <class name="practice.selenium.ParallelExec_Without_SuiteXml">
+        <test-method signature="newTest()[pri:0, instance:practice.selenium.ParallelExec_Without_SuiteXml@2a65fe7c]" started-at="2024-10-05T18:36:16 IST" name="newTest" finished-at="2024-10-05T18:36:22 IST" duration-ms="6729" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTest -->
+        <test-method signature="newTest()[pri:0, instance:practice.selenium.ParallelExec_Without_SuiteXml@2a65fe7c]" started-at="2024-10-05T18:36:16 IST" name="newTest" finished-at="2024-10-05T18:36:23 IST" duration-ms="6982" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTest -->
+        <test-method signature="newTest()[pri:0, instance:practice.selenium.ParallelExec_Without_SuiteXml@2a65fe7c]" started-at="2024-10-05T18:36:22 IST" name="newTest" finished-at="2024-10-05T18:36:27 IST" duration-ms="4741" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newTest -->
+      </class> <!-- practice.selenium.ParallelExec_Without_SuiteXml -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
